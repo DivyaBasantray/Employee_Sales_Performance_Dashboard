@@ -25,4 +25,5 @@ This project is a dynamic **Sales Dashboard** built in Microsoft Excel to visual
 5. Tools Used
 - Microsoft Excel (Pivot Tables, Slicers, VBA Macros)
 
-6. Snapshot of the dashboard - [https://github.com/DivyaBasantray/Employee_Sales_Performance_Dashboard/blob/main/Sales%20Data%20Analysis.png](https://github.com/DivyaBasantray/Employee_Sales_Performance_Dashboard/blob/main/Sales%20Data%20Analysis.png)
+6. Snapshot of the dashboard - [https://github.com/DivyaBasantray/Employee_Sales_Performance_Dashboard/blob/main/Sales%20Data%20Analysis.png]
+   Dashboard Preview: (https://github.com/DivyaBasantray/Employee_Sales_Performance_Dashboard/blob/main/Sales%20Data%20Analysis.png)
