@@ -1,4 +1,4 @@
-# Excel Sales Performance Dashboard
+# Employee Sales Performance Dashboard
 
 ##  Overview
 This project is a dynamic **Sales Dashboard** built in Microsoft Excel to visualize employee performance against their sales targets. It uses a dataset of sales employees, regions, actual vs target sales, and variance.
