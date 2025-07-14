@@ -18,7 +18,7 @@ This project is a dynamic **Sales Dashboard** built in Microsoft Excel to visual
 
 
 ##  Inspired by
-- This project was inspired by a YouTube tutorial from Satish Dhawale.
+- This project was inspired by a YouTube tutorial from Satish Dhawale. His Linkedin- https://www.linkedin.com/in/satish-dhawale/
 - I recreated and modified the project to deepen my understanding of Excel analytics and its advanced features.
 - I followed the steps in the video and replicated the results to strengthen my understanding of real-world data analysis.
 
